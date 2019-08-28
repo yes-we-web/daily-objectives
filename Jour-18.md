@@ -8,7 +8,7 @@
     * [ ] Faire les 7 exercices
 
 * [ ] Algo : 
-  * [ ] Ecrire en pseudocode le Heap Sort (création pure)
+  * [ ] Ecrire en pseudocode le Merge Sort (création pure)
   * [ ] Faire valider son code par un "élève" qui joue le rôle de l'ordinateur
 
 * [ ] CSS : 
