@@ -5,7 +5,7 @@
 
 ### Frameworks JS : 
 
-  * Comprendre les cycles de vie d'une application Vue JS
+  * [ ] Comprendre les cycles de vie d'une application Vue JS
     (https://fr.vuejs.org/v2/guide/instance.html#Hooks-de-cycle-de-vie-d%E2%80%99une-instance)
 
   * [ ] Comprendre ce qu'est une `API`
@@ -21,3 +21,4 @@
 
   * [ ] Découvrir `Vuetify` (https://vuetifyjs.com/en/)
 
+  * [ ] Découvrir `Awesome Vue.js` (https://awesome-vue.js.org/)
