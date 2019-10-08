@@ -16,5 +16,8 @@
   * [ ] Créer une application Vue JS en consommant l'`API` de citations de `Kaamelot` (https://kaamelott.chaudie.re/)
     * Possibilité de consommer une `API` de votre choix
 
+  * Savoir deployer une application Vue JS sur Github Pages
+    (https://cli.vuejs.org/guide/deployment.html#github-pages)
+
   * [ ] Découvrir `Vuetify` (https://vuetifyjs.com/en/)
 
