@@ -1,0 +1,122 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_OUTPUT_FILESEP	slash	/slash or backslash/
+!_TAG_OUTPUT_MODE	u-ctags	/u-ctags or e-ctags/
+!_TAG_PROGRAM_AUTHOR	Universal Ctags Team	//
+!_TAG_PROGRAM_NAME	Universal Ctags	/Derived from Exuberant Ctags/
+!_TAG_PROGRAM_URL	https://ctags.io/	/official site/
+!_TAG_PROGRAM_VERSION	0.0.0	/26d41bb/
+Backend :	Jour-37.md	/^### Backend : $/;"	S
+Backend :	Jour-38.md	/^### Backend : $/;"	S
+DOM :	Jour-29.md	/^### DOM : $/;"	S
+DOM :	Jour-30.md	/^### DOM : $/;"	S
+Frameworks JS :	Jour-31.md	/^### Frameworks JS : $/;"	S
+Frameworks JS :	Jour-34.md	/^### Frameworks JS : $/;"	S
+Frameworks JS :	Jour-35.md	/^### Frameworks JS : $/;"	S
+Frameworks JS :	Jour-36.md	/^### Frameworks JS : $/;"	S
+Frappe au clavier :	Jour-37.md	/^### Frappe au clavier :$/;"	S
+Frappe au clavier :	Jour-38.md	/^### Frappe au clavier :$/;"	S
+Javascript :	Jour-29.md	/^### Javascript :$/;"	S
+Javascript :	Jour-30.md	/^### Javascript :$/;"	S
+Javascript :	Jour-31.md	/^### Javascript :$/;"	S
+Javascript :	Jour-32.md	/^### Javascript :$/;"	S
+Javascript :	Jour-37.md	/^### Javascript : $/;"	S
+Javascript :	Jour-38.md	/^### Javascript : $/;"	S
+Javascript :	Jour-39.md	/^### Javascript : $/;"	S
+Javascript :	Jour-40.md	/^### Javascript : $/;"	S
+Javascript :	Jour-41.md	/^### Javascript : $/;"	S
+Javascript :	Jour-42.md	/^### Javascript : $/;"	S
+Jeudi 18/07/2019	Jour-04.md	/^## Jeudi 18\/07\/2019$/;"	s
+Jeudi 19/09/2019	Jour-27.md	/^## Jeudi 19\/09\/2019$/;"	s
+Lundi 02/09/2019	Jour-19.md	/^## Lundi 02\/09\/2019$/;"	s
+Lundi 04/11/2019	Jour-42.md	/^## Lundi 04\/11\/2019$/;"	s
+Lundi 05/08/2019	Jour-11.md	/^## Lundi 05\/08\/2019$/;"	s
+Lundi 07/10/2019	Jour-34.md	/^## Lundi 07\/10\/2019$/;"	s
+Lundi 09/09/2019	Jour-22.md	/^## Lundi 09\/09\/2019$/;"	s
+Lundi 14/10/2019	Jour-37.md	/^## Lundi 14\/10\/2019$/;"	s
+Lundi 15/07/2019 : Journée d’intégration (méthode pédagogique, philosophie, etc.)	Jour-01.md	/^## Lundi 15\/07\/2019 : Journée d’intégration (méthode pédagogique, philosophie, etc.)$/;"	s
+Lundi 16/09/2019	Jour-25.md	/^## Lundi 16\/09\/2019$/;"	s
+Lundi 19/08/2019	Jour-14.md	/^## Lundi 19\/08\/2019$/;"	s
+Lundi 21/10/2019	Jour-39.md	/^## Lundi 21\/10\/2019$/;"	s
+Lundi 22/07/2019	Jour-05.md	/^## Lundi 22\/07\/2019$/;"	s
+Lundi 23/09/2019	Jour-28.md	/^## Lundi 23\/09\/2019$/;"	s
+Lundi 29/07/2019	Jour-08.md	/^## Lundi 29\/07\/2019$/;"	s
+Mardi 01/10/2019	Jour-32.md	/^## Mardi 01\/10\/2019$/;"	s
+Mardi 03/09/2019	Jour-20.md	/^## Mardi 03\/09\/2019$/;"	s
+Mardi 06/08/2019	Jour-12.md	/^## Mardi 06\/08\/2019$/;"	s
+Mardi 08/10/2019	Jour-35.md	/^## Mardi 08\/10\/2019$/;"	s
+Mardi 10/09/2019	Jour-23.md	/^## Mardi 10\/09\/2019$/;"	s
+Mardi 15/10/2019	Jour-38.md	/^## Mardi 15\/10\/2019$/;"	s
+Mardi 16/07/2019	Jour-02.md	/^## Mardi 16\/07\/2019$/;"	s
+Mardi 17/09/2019	Jour-26.md	/^## Mardi 17\/09\/2019$/;"	s
+Mardi 20/08/2019	Jour-15.md	/^## Mardi 20\/08\/2019$/;"	s
+Mardi 22/10/2019	Jour-40.md	/^## Mardi 22\/10\/2019$/;"	s
+Mardi 23/07/2019	Jour-06.md	/^## Mardi 23\/07\/2019$/;"	s
+Mardi 24/09/2019	Jour-29.md	/^## Mardi 24\/09\/2019$/;"	s
+Mardi 27/08/2019	Jour-17.md	/^## Mardi 27\/08\/2019$/;"	s
+Mardi 30/07/2019	Jour-09.md	/^## Mardi 30\/07\/2019$/;"	s
+Mardi 31/09/2019	Jour-33.md	/^## Mardi 31\/09\/2019$/;"	s
+Mercredi 04/09/2019	Jour-21.md	/^## Mercredi 04\/09\/2019$/;"	s
+Mercredi 07/08/2019	Jour-13.md	/^## Mercredi 07\/08\/2019$/;"	s
+Mercredi 09/10/2019	Jour-36.md	/^## Mercredi 09\/10\/2019$/;"	s
+Mercredi 11/09/2019	Jour-24.md	/^## Mercredi 11\/09\/2019$/;"	s
+Mercredi 17/07/2019	Jour-03.md	/^## Mercredi 17\/07\/2019$/;"	s
+Mercredi 21/08/2019	Jour-16.md	/^## Mercredi 21\/08\/2019$/;"	s
+Mercredi 23/10/2019	Jour-41.md	/^## Mercredi 23\/10\/2019$/;"	s
+Mercredi 24/07/2019	Jour-07.md	/^## Mercredi 24\/07\/2019$/;"	s
+Mercredi 25/09/2019	Jour-30.md	/^## Mercredi 25\/09\/2019$/;"	s
+Mercredi 28/08/2019	Jour-18.md	/^## Mercredi 28\/08\/2019$/;"	s
+Mercredi 31/07/2019	Jour-10.md	/^## Mercredi 31\/07\/2019$/;"	s
+Node.JS :	Jour-39.md	/^### Node.JS : $/;"	S
+Node.JS :	Jour-40.md	/^### Node.JS : $/;"	S
+Node.JS :	Jour-41.md	/^### Node.JS : $/;"	S
+Node.JS :	Jour-42.md	/^### Node.JS : $/;"	S
+Objectifs de la semaine	Jour-42.md	/^# Objectifs de la semaine$/;"	c
+Objectifs journaliers	Jour-01.md	/^# Objectifs journaliers$/;"	c
+Objectifs journaliers	Jour-02.md	/^# Objectifs journaliers$/;"	c
+Objectifs journaliers	Jour-03.md	/^# Objectifs journaliers$/;"	c
+Objectifs journaliers	Jour-04.md	/^# Objectifs journaliers$/;"	c
+Objectifs journaliers	Jour-05.md	/^# Objectifs journaliers$/;"	c
+Objectifs journaliers	Jour-06.md	/^# Objectifs journaliers$/;"	c
+Objectifs journaliers	Jour-07.md	/^# Objectifs journaliers$/;"	c
+Objectifs journaliers	Jour-08.md	/^# Objectifs journaliers$/;"	c
+Objectifs journaliers	Jour-09.md	/^## Objectifs journaliers$/;"	s
+Objectifs journaliers	Jour-10.md	/^# Objectifs journaliers$/;"	c
+Objectifs journaliers	Jour-11.md	/^# Objectifs journaliers$/;"	c
+Objectifs journaliers	Jour-12.md	/^# Objectifs journaliers$/;"	c
+Objectifs journaliers	Jour-13.md	/^# Objectifs journaliers$/;"	c
+Objectifs journaliers	Jour-14.md	/^# Objectifs journaliers$/;"	c
+Objectifs journaliers	Jour-15.md	/^# Objectifs journaliers$/;"	c
+Objectifs journaliers	Jour-16.md	/^# Objectifs journaliers$/;"	c
+Objectifs journaliers	Jour-17.md	/^# Objectifs journaliers$/;"	c
+Objectifs journaliers	Jour-18.md	/^# Objectifs journaliers$/;"	c
+Objectifs journaliers	Jour-19.md	/^# Objectifs journaliers$/;"	c
+Objectifs journaliers	Jour-20.md	/^# Objectifs journaliers$/;"	c
+Objectifs journaliers	Jour-21.md	/^# Objectifs journaliers$/;"	c
+Objectifs journaliers	Jour-22.md	/^# Objectifs journaliers$/;"	c
+Objectifs journaliers	Jour-23.md	/^# Objectifs journaliers$/;"	c
+Objectifs journaliers	Jour-24.md	/^# Objectifs journaliers$/;"	c
+Objectifs journaliers	Jour-25.md	/^# Objectifs journaliers$/;"	c
+Objectifs journaliers	Jour-26.md	/^# Objectifs journaliers$/;"	c
+Objectifs journaliers	Jour-27.md	/^# Objectifs journaliers$/;"	c
+Objectifs journaliers	Jour-28.md	/^# Objectifs journaliers$/;"	c
+Objectifs journaliers	Jour-29.md	/^# Objectifs journaliers$/;"	c
+Objectifs journaliers	Jour-30.md	/^# Objectifs journaliers$/;"	c
+Objectifs journaliers	Jour-31.md	/^# Objectifs journaliers$/;"	c
+Objectifs journaliers	Jour-32.md	/^# Objectifs journaliers$/;"	c
+Objectifs journaliers	Jour-33.md	/^# Objectifs journaliers$/;"	c
+Objectifs journaliers	Jour-34.md	/^# Objectifs journaliers$/;"	c
+Objectifs journaliers	Jour-35.md	/^# Objectifs journaliers$/;"	c
+Objectifs journaliers	Jour-36.md	/^# Objectifs journaliers$/;"	c
+Objectifs journaliers	Jour-37.md	/^# Objectifs journaliers$/;"	c
+Objectifs journaliers	Jour-38.md	/^# Objectifs journaliers$/;"	c
+Objectifs journaliers	Jour-39.md	/^# Objectifs journaliers$/;"	c
+Objectifs journaliers	Jour-40.md	/^# Objectifs journaliers$/;"	c
+Objectifs journaliers	Jour-41.md	/^# Objectifs journaliers$/;"	c
+SQL :	Jour-39.md	/^### SQL :$/;"	S
+SQL :	Jour-40.md	/^### SQL :$/;"	S
+SQL :	Jour-41.md	/^### SQL :$/;"	S
+Vue JS :	Jour-32.md	/^### Vue JS : $/;"	S
+Vue JS :	Jour-33.md	/^### Vue JS : $/;"	S
+daily-objectives	README.md	/^# daily-objectives$/;"	c
+lundi 30/09/2019	Jour-31.md	/^## lundi 30\/09\/2019$/;"	s
